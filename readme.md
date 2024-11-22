@@ -1,6 +1,6 @@
 # Análisis de campaña de Marketing
 <p align="center">
-  <img src="Images/portada.jpg" alt="portada" width="400"/>
+  <img src="images/portada.jpg" alt="portada" width="400"/>
 </p>
 
 
@@ -77,7 +77,7 @@
 ### Árbol de decision.
 
 <p align="center">
-  <img src="images/arboldecision.png" alt="portada" width="auto"/>
+  <img src="images/arboldecision.png" alt="arbol" width="auto"/>
 </p>
 Las hojas que llegan a "class = 1" son los clientes que tienen una alta probabilidad de compra a raíz de nuestras campañas de marketing.
 ---
